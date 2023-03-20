@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on any fun idea
 - 📫 How to reach me ... I'm xpan on discord, code - Xpan#9082
 - 📫 [portfolio](https://portfolio-xpanvictor.vercel.app)
-- 📫  [Twitter](https://twitter.com/Xpan369?t=rPJ-CMkRRvfoLXPMMjU41A&s=09)
+- 📔 [blog](https://xpanvictor.github.io/)
+- 🐦 [Twitter](https://twitter.com/Xpan369?t=rPJ-CMkRRvfoLXPMMjU41A&s=09)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=xpanvictor)](https://git.io/streak-stats)
 
