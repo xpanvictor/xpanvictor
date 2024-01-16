@@ -8,7 +8,7 @@
 - 🐦 [Twitter](https://twitter.com/Xpan369?t=rPJ-CMkRRvfoLXPMMjU41A&s=09)
 
   ## Here are my top languages
-[![xpan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpanvictor)](https://github.com/anuraghazra/top-langs?size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8)
+![xpan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpanvictor&langs_count=8&layout=compact)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=xpanvictor)](https://git.io/streak-stats)
