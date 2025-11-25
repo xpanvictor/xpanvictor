@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @xpanvictor
-- 👀 I’m interested in logic and science. Tech movies are cool at times. I like Gilfoyle's character in silicon valley
-- 🌱 I’m just learning, growing and having fun doing
+- 👀 I’m interested in advancing humanity type level in the Kardashev scale.
+- 🌱 I’m building, learning, growing.
 - 💞️ I’m looking to collaborate on any fun idea
 - 📫 How to reach me ... I'm xpan on discord, code - Xpan#9082
 - 📔 [blog](https://xpanvictor.github.io/)
-- 📫 [portfolio](https://portfolio-xpanvictor.vercel.app)
-- 🐦 [Twitter](https://twitter.com/Xpan369?t=rPJ-CMkRRvfoLXPMMjU41A&s=09)
+- 📫 [portfolio](https://www.xpan9.tech/)
+- 🐦 [Twitter](https://x.com/the9thmind?s=21)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=xpanvictor)](https://git.io/streak-stats)
